@@ -1,0 +1,8 @@
+Ethernet
+
+- 10mbps
+- 100mps - fast
+- 1gbps - gigaEthernet 
+
+
+ip exemplo 192.168.0.2/24; esse 24 é a máscara da subrede
